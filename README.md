@@ -73,10 +73,6 @@ I'm passionate about continuous learning, staying up-to-date with the latest mar
 
 ## 🌟 Projects
 
-- **Nuggets-Projects**
-  - [GitHub Repository](https://github.com/andeveling/nuggets-projects)
-  - A collection of projects used to learn and apply various concepts and technologies. Ongoing since 06/2020.
-
 ## 🌐 Languages
 
 - **Certificate of English Language A2**
